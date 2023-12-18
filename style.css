@@ -593,7 +593,7 @@ span {
 	border: 0;
 	outline: 0;
 	cursor: pointer;
-	margin: 50px 150px 0;
+	margin: 50px 50px 0;
 	transform: skew(5deg);
 	transition: all 0.2s ease;
 }
@@ -609,7 +609,7 @@ span {
 	border: 0;
 	outline: 0;
 	cursor: pointer;
-	margin: 50px 150px 0;
+	margin: 50px 50px 0;
 	transform: skew(5deg);
 	box-shadow: 0 0 30px #F5F5F590;
 	transition: all 0.2s ease;
